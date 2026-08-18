@@ -1,2 +1,0 @@
-# Vascular_Risk_Survival_ML
-Vascular_Risk_Survival_and_Explainable_AI
